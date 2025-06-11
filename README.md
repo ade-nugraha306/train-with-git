@@ -1,4 +1,4 @@
-# hello world with ``Golang``
+# calc with ``Golang``
 <br>
 
 - **How to run ``main.go`` ?**
@@ -9,7 +9,16 @@ go run main.go
 ````
 <br>
 
+example:
+````go
+2 + 2
+````
+<br>
+
 expected output:
 ````go
-Hello World!
+4 
+0
+4
+1
 ````
