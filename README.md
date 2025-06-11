@@ -20,5 +20,5 @@ expected output:
 add: 4
 sub: 0
 mul: 4
-div: 1
+1
 ````
