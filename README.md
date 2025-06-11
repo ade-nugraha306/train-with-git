@@ -17,8 +17,8 @@ example:
 
 expected output:
 ````go
-4 
-0
-4
-1
+add: 4
+sub: 0
+mul: 4
+div: 1
 ````
